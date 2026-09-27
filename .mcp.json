@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "gbrain": {
+      "type": "stdio",
+      "command": "/Users/alex/.bun/bin/gbrain",
+      "args": [
+        "serve",
+        "--surface",
+        "verbs"
+      ],
+      "env": {}
+    }
+  }
+}

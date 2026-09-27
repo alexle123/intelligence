@@ -1,0 +1,8 @@
+// Routing eval fixtures for skills/bookmark-resurface. Each intent
+// includes at least one trigger string as substring.
+{"intent":"Help me plan a weekend trip to Yosemite with friends","expected_skill":"bookmark-resurface"}
+{"intent":"Help me draft a pitch for my hackathon demo","expected_skill":"bookmark-resurface"}
+{"intent":"Help me build a trading bot for prediction markets","expected_skill":"bookmark-resurface"}
+{"intent":"I'm working on a screen recording tool, where do I start?","expected_skill":"bookmark-resurface"}
+{"intent":"What did I save about vibe coding?","expected_skill":"bookmark-resurface"}
+{"intent":"Did I bookmark anything on filmmaking with AI?","expected_skill":"bookmark-resurface"}

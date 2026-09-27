@@ -1,0 +1,44 @@
+[
+  {
+    "platform": "x",
+    "author": "@demo_luau_dev",
+    "days_ago": 2,
+    "text": "Built my first Roblox obby in one evening with Claude writing the Luau. Prompt that worked: \"Write a checkpoint system for a Roblox obby: SpawnLocation per stage, save the player's stage with DataStoreService, respawn at the last checkpoint.\" Paste into a Script in ServerScriptService and it just works."
+  },
+  {
+    "platform": "tiktok",
+    "author": "@demo_robloxbuilds",
+    "days_ago": 5,
+    "text": "3 things I wish I knew before making my first Roblox game: 1) keep game logic in ModuleScripts in ReplicatedStorage, 2) never trust the client, validate everything on the server with RemoteEvents, 3) ship a tiny game in a weekend before your dream game. #robloxstudio #gamedev"
+  },
+  {
+    "platform": "instagram",
+    "author": "@demo_indiegamecoach",
+    "days_ago": 9,
+    "text": "How my Roblox game made its first $500: one gamepass (2x speed, 99 Robux), a daily reward to bring players back, and a thumbnail with a face on it. Most first games fail on the thumbnail, not the gameplay."
+  },
+  {
+    "platform": "x",
+    "author": "@demo_rojo_fan",
+    "days_ago": 14,
+    "text": "If you code Roblox games, use Rojo + VS Code instead of the Studio script editor. Real git, real autocomplete (luau-lsp), and your AI coding agent can edit the files directly. Setup takes 10 minutes."
+  },
+  {
+    "platform": "tiktok",
+    "author": "@demo_outdoorsy",
+    "days_ago": 20,
+    "text": "Yosemite group camping checklist: reserve Upper Pines 5 months out on recreation.gov at 7am PT sharp, bring bear canisters (required), and assign one person per meal. Split costs in one Splitwise group from day one."
+  },
+  {
+    "platform": "instagram",
+    "author": "@demo_mealprep",
+    "days_ago": 3,
+    "text": "High-protein overnight oats: oats, Greek yogurt, protein powder, chia, almond milk. Five jars, done for the week."
+  },
+  {
+    "platform": "x",
+    "author": "@demo_fitness",
+    "days_ago": 11,
+    "text": "Zone 2 cardio is the most underrated habit: 3 x 45 minutes a week at a pace where you can still talk."
+  }
+]

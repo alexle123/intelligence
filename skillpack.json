@@ -1,0 +1,13 @@
+{
+  "api_version": "gbrain-skillpack-v1",
+  "name": "intelligence",
+  "version": "0.1.0",
+  "description": "Your X bookmarks, back in GBrain, brought back by every AI you use at the moment they matter.",
+  "author": "Alex",
+  "license": "MIT",
+  "homepage": "https://github.com/alexle123/intelligence",
+  "gbrain_min_version": "0.59.0.0",
+  "skills": ["skills/bookmark-resurface"],
+  "shared_deps": [],
+  "routing_evals": ["skills/*/routing-eval.jsonl"]
+}
